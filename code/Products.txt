@@ -1,0 +1,10 @@
+1,Tape,12
+2,Bread,7
+3,Milk,9
+4,Egg,8
+5,Beef,13
+6,Chips,8
+7,Pear,4
+8,Gummys,5
+9,Apples,7
+10,Coffee,11
